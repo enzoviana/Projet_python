@@ -48,3 +48,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 # Screenshot STREAMLIT
 
+<img src="streamlit_screen.png" >
